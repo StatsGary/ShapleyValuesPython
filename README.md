@@ -26,7 +26,7 @@ Install the [Anaconda distribution](https://www.anaconda.com/products/individual
 
 2. Activate the new environment with `conda activate ml`.
 
-3. Navigate to directory containing the *requirements.txt* of this repository ([here](https://github.com/jamescalam/transformers/blob/main/requirements.txt)).
+3. Navigate to directory containing the *requirements.txt* of this repository ([here](https://github.com/StatsGary/ShapleyValuesPython/blob/main/requirements.txt)).
 
 4. Write `pip install -r requirements.txt`.
 

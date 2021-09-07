@@ -1,6 +1,6 @@
 # Shapley Values Python
 A repository to show examples of Shapley Values in Python.
-![Screenshot](screenshot.png)
+![Screenshot](plots/global_shap.png)
 
 To follow along with this, not mandatory, but use the environment.yaml to replicate my conda environment. 
 

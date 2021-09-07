@@ -9,9 +9,9 @@ Install the [Anaconda distribution](https://www.anaconda.com/products/individual
 
 ## Using environment.yaml
 
-1. Download the [environment.yaml](https://github.com/jamescalam/transformers/blob/main/environment.yaml) for the course.
+1. Download the [environment.yaml](https://github.com/StatsGary/ShapleyValuesPython/blob/main/scikitlearnenv.yml) for the tutorials.
 
-2. In *Anaconda prompt*, navigate to the directory containing the *environment.yaml* and write `conda env create -f environment.yaml`.
+2. In *Anaconda prompt*, navigate to the directory containing the *environment.yaml* and write `conda env create -f scikitlearnenv.yaml`.
 
 3. Activate the new environment with `conda activate ml`.
 

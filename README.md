@@ -1,5 +1,7 @@
 # Shapley Values Python
 A repository to show examples of Shapley Values in Python.
+
+The generated Shapley Global Feature Importance plot is from [here](https://hutsons-hacks.info/training-xgboost-model-and-assessing-feature-importance-using-shapley-values-in-sci-kit-learn)
 ![Screenshot](plots/global_shap.png)
 
 To follow along with this, not mandatory, but use the environment.yaml to replicate my conda environment. 
